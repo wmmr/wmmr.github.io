@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mein Dritter Eintrag
+title:  Drei
 categories: 
 excerpt: 
 ---
