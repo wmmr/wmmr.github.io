@@ -1142,3 +1142,9 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+
+// modified by Martin
+div.entry {
+  text-align: justify;
+}
